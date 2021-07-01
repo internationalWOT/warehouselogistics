@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  logistics_api:
+    image: logistics_api
+    build:
+      context: ./
+      dockerfile: logistics_api//Dockerfile
+    ports:
+      - 8000:8000
+
+  # logisticsfrontend:
+  #   image: logisticsfrontend
+  #   build:
+  #     context: ./
+  #     dockerfile: logisticsFrontend/Dockerfile
+    # depends_on: 
+    #   - logistics_api
+      
+
+

@@ -1,0 +1,16 @@
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.exe
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.deps.json
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.runtimeconfig.json
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.runtimeconfig.dev.json
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.dll
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\ref\logisticsFrontend.dll
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\logisticsFrontend.pdb
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.csprojAssemblyReference.cache
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.AssemblyInfoInputs.cache
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.AssemblyInfo.cs
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.csproj.CoreCompileInputs.cache
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.dll
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\ref\logisticsFrontend.dll
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.pdb
+C:\Solutions\warehouselogistics\logisticsFrontend\obj\Release\net5.0\logisticsFrontend.genruntimeconfig.cache

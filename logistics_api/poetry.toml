@@ -1,0 +1,6 @@
+[virtualenvs]
+in-project = true
+
+[tool.dephell.main]
+from = {format = "poetry", path = "pyproject.toml"}
+to = {format = "setuppy", path = "setup.py"}

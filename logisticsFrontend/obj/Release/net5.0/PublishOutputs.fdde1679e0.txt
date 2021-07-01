@@ -1,0 +1,5 @@
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\publish\logisticsFrontend.exe
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\publish\logisticsFrontend.dll
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\publish\logisticsFrontend.deps.json
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\publish\logisticsFrontend.runtimeconfig.json
+C:\Solutions\warehouselogistics\logisticsFrontend\bin\Release\net5.0\publish\logisticsFrontend.pdb
